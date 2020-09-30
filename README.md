@@ -7,3 +7,6 @@ docker rm -f hola-mundo || true && docker run -d -p 8080:8080 -p 4848:4848 --nam
 
 # Adding new comment to README
 This is the development branch
+
+# Feature 001: Adding REST service
+REST service will implement GET, POST, PUT and DELETE
